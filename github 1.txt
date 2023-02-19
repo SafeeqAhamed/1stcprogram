@@ -1,0 +1,16 @@
+// Simple C program to display basic commands
+
+// Header file for input output functions
+#include <stdio.h>
+
+// main function -
+// where the execution of program begins
+int main()
+{
+	printf("This is my first c program\n");
+      printf("This is second line of program\n");
+      printf("This is just a command printing program\n");
+      printf("This is last lineeeee");
+
+	return 0;
+}
